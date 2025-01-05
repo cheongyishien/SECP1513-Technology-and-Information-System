@@ -7,7 +7,7 @@ The Technlogy and Information System course has introduced various aspects of in
 # Assignment
 **Assignment 1:** [Poster Industry Talk]()
 
-**Assignment 2:** [Video Industry Visit](video_industry_visit_UTMDIGITAL.mov)
+**Assignment 2:** [Video Industry Visit](assets/video_industry_visit_UTMDIGITAL.mov)
 
   Reflection
   
@@ -31,7 +31,7 @@ The Technlogy and Information System course has introduced various aspects of in
 
 [Report](https://liveutm-my.sharepoint.com/:w:/g/personal/nurfaatihah_live_utm_my/EdFGCsEIVsxOh1EWuDoQg1wBaRtvfFWXsIrKgYq_CVhfCQ?e=xvyeVk).
 
-[Video](video_design_thinking.MP4)
+[Video](assets/video_design_thinking.MP4)
 
 [Slide](https://www.canva.com/design/DAGaBFjSdIc/PwLkptvOjq8UrND7eEoAfQ/edit).
 
