@@ -29,11 +29,11 @@ The Technlogy and Information System course has introduced various aspects of in
 
 **Design thinking**
 
-[Report](https://liveutm-my.sharepoint.com/:w:/g/personal/nurfaatihah_live_utm_my/EdFGCsEIVsxOh1EWuDoQg1wBaRtvfFWXsIrKgYq_CVhfCQ?e=xvyeVk).
+[Report Design Thinking](https://liveutm-my.sharepoint.com/:w:/g/personal/nurfaatihah_live_utm_my/EdFGCsEIVsxOh1EWuDoQg1wBaRtvfFWXsIrKgYq_CVhfCQ?e=xvyeVk).
 
-[Video](assets/video_design_thinking.mp4)
+[Video Design Thinking](assets/video_design_thinking.mp4)
 
-[Slide](https://www.canva.com/design/DAGaBFjSdIc/PwLkptvOjq8UrND7eEoAfQ/edit).
+[Slide Design Thinking](https://www.canva.com/design/DAGaBFjSdIc/PwLkptvOjq8UrND7eEoAfQ/edit).
 
 
   Reflection
