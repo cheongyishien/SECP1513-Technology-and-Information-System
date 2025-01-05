@@ -31,7 +31,7 @@ The Technlogy and Information System course has introduced various aspects of in
 
 [Report](https://liveutm-my.sharepoint.com/:w:/g/personal/nurfaatihah_live_utm_my/EdFGCsEIVsxOh1EWuDoQg1wBaRtvfFWXsIrKgYq_CVhfCQ?e=xvyeVk).
 
-[Video](assets/video_design_thinking.MP4)
+[Video](assets/video_design_thinking.mp4)
 
 [Slide](https://www.canva.com/design/DAGaBFjSdIc/PwLkptvOjq8UrND7eEoAfQ/edit).
 
