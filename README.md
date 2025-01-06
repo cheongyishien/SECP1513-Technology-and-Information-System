@@ -1,4 +1,5 @@
 # SECP1513-Technology-and-Information-System
+**Lecturer: Dr. Aryati binti Bakri**
 Reflection of course
 
 The Technlogy and Information System course has introduced various aspects of information systems yet the definition and types of information systems. During design thinking, the innovation skills and problem solving concepts has greatly been improved. Also, it helps in the focus of definning problem and generating creative solution. Thus, this course is believed that has strengthen the problem-solving abilities.
