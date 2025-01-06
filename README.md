@@ -7,6 +7,8 @@ The Technlogy and Information System course has introduced various aspects of in
 # Assignment
 **Assignment 1:** [Poster Industry Talk](https://www.canva.com/design/DAGa-UYBdzU/JMx0sVOQia-AbCv0gmXbvw/edit)
 
+Reflection
+
 The talk push a student to build a good leadership manner and practice a leader’s characteristics. Then, it provides deeper understanding on artificial intelligence (AI) and the application of AI on other related system. Next, the talk encourage students to obtain certificates on interested field as a fundamental preparation. 
 
 **Assignment 2:** [Video Industry Visit](assets/video_industry_visit_UTMDIGITAL.mov)
