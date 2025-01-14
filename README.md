@@ -11,7 +11,7 @@ The Technlogy and Information System course has introduced various aspects of in
 
 Reflection
 
-The talk push a student to build a good leadership manner and practice a leader’s characteristics. Then, it provides deeper understanding on artificial intelligence (AI) and the application of AI on other related system. Next, the talk encourage students to obtain certificates on interested field as a fundamental preparation. 
+By the talk, students are pushed to build good leadership manners and practice a leader’s characteristics. A deeper understanding of artificial intelligence (AI) and the application of AI to other related systems is provided. Students are encouraged by the talk to obtain certificates in their fields of interest as a fundamental preparation.
 
 **Assignment 2:** [Video Industry Visit](assets/video_industry_visit_UTMDIGITAL.mov)
 
